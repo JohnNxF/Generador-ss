@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from pyautogui import hotkey
+#from pyautogui import hotkey
 import time
 import os
 import string

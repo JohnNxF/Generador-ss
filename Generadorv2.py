@@ -7,8 +7,7 @@ import random
 
 def inicio():
 	print(r"""
-				Holis :D 
-                  ''' ______________________________________________________________________________________
+	           ______________________________________________________________________________________
 		   |				   Instituto Politecnico Nacional			|
 		   |			Escuela Superior de Ingenieria Mecanica y Electrica		|
 		   |					Unidad Culhuacan                                |
@@ -21,7 +20,7 @@ def inicio():
 		   |		Pérez Guzmán Jonathan							|
 		   |		Ramirez Mendoza David							|
 		   |		Rojas Hernandez Brandon Alonso 						|
-		   |____________________________________________________________________________________|'''
+		   |____________________________________________________________________________________|
 													""")
 
 
@@ -51,3 +50,4 @@ hotkey('ctrl','c')
 time.sleep(2)
 os.system('all')
 '''
+

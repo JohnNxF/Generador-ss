@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#from pyautogui import hotkey
+from pyautogui import hotkey
 import time
 import os
 import string
@@ -7,8 +7,7 @@ import random
 
 def inicio():
 	print(r"""
-				Holis :D 
-                  ''' ______________________________________________________________________________________
+	           ______________________________________________________________________________________
 		   |				   Instituto Politecnico Nacional			|
 		   |			Escuela Superior de Ingenieria Mecanica y Electrica		|
 		   |					Unidad Culhuacan                                |
@@ -21,7 +20,7 @@ def inicio():
 		   |		Pérez Guzmán Jonathan							|
 		   |		Ramirez Mendoza David							|
 		   |		Rojas Hernandez Brandon Alonso 						|
-		   |____________________________________________________________________________________|'''
+		   |____________________________________________________________________________________|
 													""")
 
 
